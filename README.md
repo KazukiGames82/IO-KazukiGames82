@@ -28,6 +28,10 @@ Modernized power controls for your Droptop bar.<br>* Confirmation for actions ca
   <a href="#license">License</a>
 </p>
 
+<p align="center">
+  <a href="#"><img src="Images/PreviewImage.png" alt="Screenshot"></a>
+</p>
+
 ## Key Features
   
 ## How to use
